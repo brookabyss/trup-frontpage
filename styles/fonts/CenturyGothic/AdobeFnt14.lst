@@ -1,0 +1,64 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CenturyGothicPro-Bold
+FamilyName:Century Gothic Pro
+StyleName:Bold
+MenuName:Century Gothic Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Century Gothic Pro Bold
+WritingScript:Roman
+OutlineFileName:\CenturyGothicPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:52248
+FileModTime:1156712208
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CenturyGothicPro
+FamilyName:Century Gothic Pro
+StyleName:Regular
+MenuName:Century Gothic Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Century Gothic Pro
+WritingScript:Roman
+OutlineFileName:\CenturyGothicPro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:50236
+FileModTime:1156712222
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia
+FamilyName:Georgia
+StyleName:Regular
+MenuName:Georgia
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Georgia
+WritingScript:Roman
+OutlineFileName:\Georgia.ttf
+DataFormat:sfntData
+FileLength:159656
+FileModTime:1247697822
+%EndFont
+
